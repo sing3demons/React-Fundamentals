@@ -1,0 +1,15 @@
+{
+    "editor.formatOnSave": true,
+    "emmet.syntaxProfiles": {
+        "javascript": "jsx"
+    },
+    "emmet.includeLanguages": {
+        "javascript": "javascriptreact"
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave":true,
+    "[javascript]": {
+          "editor.defaultFormatter": "esbenp.prettier-vscode"
+        }
+}
